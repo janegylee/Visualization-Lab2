@@ -39,7 +39,8 @@ const filterData = function (category) {
 		console.log(filteredData)
 	}
 
-	 
+}	 
+
 
 //Interactive dropdown filtering
 // TODO: Define an event listener for the dropdown menu
@@ -57,7 +58,7 @@ document.querySelector('#attraction-category').addEventListener('change',functio
 
 
 	
-}	
+	
 
 
 
